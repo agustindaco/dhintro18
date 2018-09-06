@@ -34,7 +34,7 @@ Office hours: M 5:30-6:30 T 3:00-4:00
 **Agustín Indaco (MS in Data Analysis/Vis)**  
 aindaco@gmail.com  
 [@agustindaco](https://twitter.com/agustindaco?lang=en)  
-Office hours: M 5:30-6:30  
+Office hours: W 5:30-6:30  Th 5:00-6:00
 
 ## Course Overview
 
